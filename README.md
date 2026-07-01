@@ -1,4 +1,4 @@
-# 🚀 The Engineer's Notebook
+# 🚀 Journey From First Principles
 
 > *A four-year journey through Computer Science, Software Engineering, Artificial Intelligence, and Systems Design — built from first principles.*
 
@@ -6,7 +6,7 @@
 
 ## 📖 About This Repository
 
-Welcome to **The Engineer's Notebook**.
+Welcome to **Journey From First Principles**.
 
 This repository is not a collection of class notes.
 
